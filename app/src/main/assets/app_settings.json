@@ -1,50 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "watermark": true,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "5de47c75-8d5c-45eb-b897-ed507adfb376",
+  "appName": "Gaming Komplit Store",
+  "appIcon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAVLSURBVFiFxVffT1NXHP/c20p/0Hor40exFEov0uEeQFoNMyqBECEZzV7cpts/AC57GCEVHmaKPkBKbXxe9rgHMx6RRIzRqMuySJmaEVlJS6tWqdJ2LQXaQnvPHui9tmBZ64Z+k5N7z/l+z/l8zvmec77fQ6EIcThGG2KxjaZoLKpOxBNGwnFlAEDRdFgqk84ySiagVJbMDwwMuwsdkyrEyGaztYbDoSs+31PDM5+vOpmI43VsNcemUqmARCpDrU63pNPVucrLK34YHBz89T8RsNlsrV7v4pTf76+anLxeEFlezOZeUlNT86q+Xv+ZxWL5o5i+AICREesls7mXU6nVBMA7FZVaTczmXs5qvWgvCtxisUwdb2t7Z+Dt5XhbG7FYLFMfBLwoEiMj1kt7AZ5NIq87bDZbq9ncy+XrWMxeUKnVee3N5l7OZrO18rg0/+P1Lk7dn3Hu2OlalsWXwWWw6qpdVy9bztRo8K1e/1bd/Rkn5fUuCq6g+dn7/f6qSCCwo8MnhBQMnC3JUBBalt3RHgkE4Pf7q+x2+wmBQDgcupLvnK9UVmIhHi+awNxmKi/5ycnrVDC4fBkAaIdjtMHne2rIN1AHTWPjxcuiCRCfFzVlB/Lqfb6nBodjtIGOxTaanvl81dsNxAwjLOFzmoJEKiuKwDRHUFUiyat/5vNVx2IbTeJoLKpulctw2GTc0eGj1CbI77/hCChUcmkkW5ox++jxrsBaloVBxWCIplDx+hUcx44iJN6HVxvJHLsnACKRSKM4EU8Yw+k0amIxXHM/giedBgB00xS0HMEdkQiedBrdTicOnTyJb44dRXq/EqKVmPDdMfvbdzDNEcDtQTe9CABwU8KBw3f1OqxqNEgmkwYx4biyG64FsOoq9HW041amc0gux+n1NZQTDg/prf1p3CfG9H0njmQGmqBoNBAOWo6gnKYQzHz5CfB2t+RyeFbXwIpE6Otoxy+r63jiWsC5w4dVYgBQlpZi9tFjPGYYjHZ2gJ3/C+zSS9wEhdMg4IMmffs2QvJSTMQTOE/SOE/SuAkK5TSFChA8pCk0ZdlXgGAZFM6tr+GY5iDqmz7G8MwsUtGosL/EFE2H+aVJRaMYnpnFmZZmNMpkmHZ7cISm4M7MlOvsxFcZWy7z7QIEN5jE+0ClNgGnEyG5HFhfwxhHcLWBRVijwY8ZcF4oio6IpTLpbKVSgedZJG64FtCmKAUrEmEi095tMuHS3BO87bLKFi3L4nuTCQMPZuDkyZaV4drdezl2lUoFJBKJS8womcD2I9ZjaMTc3Xv4gn5zNy0qFPhaRAOag1t1iRT6ZOKNnq8n4kjvV2Ioqy8dDkPLsnju8QhtEqkMKpVqgVYqS+ZrdbqlbALsZgo/ARjjCCYoGqK2T5FYWRH0jTJZDjiAnLorEkXq0CGMcQRjHMHPgQA+r6vNsa/V6ZaUypJ58cDAsHto6IILQDW/hMlQEMDWTu7qaMe1YAiRP+dwQCYFADzI8iMA/B1PCDoAcL54ibPtp+BgmC1XrK6hO5F7D+h0dS4hebXb7Sf4UNyj15MevZ6c1xwk412du4ZdMcPsqje2NJPxrk5iUpSSQUMj0bKsEJL5YCRIf3/fkkqtJj16PRnv6iRn20/9K0AhRcuyZLyrk1xtYEmPXk9UajXp7+/LcTmANwmJmGEEpv9nOdt+irAi0Y6EJEes1ov2vUzJjC3N+VMyXvYyKR0aunBnV/C9ImFsaS4cnBer9aL9fTxMPvjTrKBB7Xb7iWBw+fJ7f5xuF/55HolEGpPJpIEQTgVsRTWJROJSqVQLxT7P/wGr4UmNV6zVZAAAAABJRU5ErkJggg==",
+  "package": "com.app.gamingkomplitstore",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "https://www.gamingkomplit.com/?m=1",
+  "themeColor": "#5B5BD6",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAVLSURBVFiFxVffT1NXHP/c20p/0Hor40exFEov0uEeQFoNMyqBECEZzV7cpts/AC57GCEVHmaKPkBKbXxe9rgHMx6RRIzRqMuySJmaEVlJS6tWqdJ2LQXaQnvPHui9tmBZ64Z+k5N7z/l+z/l8zvmec77fQ6EIcThGG2KxjaZoLKpOxBNGwnFlAEDRdFgqk84ySiagVJbMDwwMuwsdkyrEyGaztYbDoSs+31PDM5+vOpmI43VsNcemUqmARCpDrU63pNPVucrLK34YHBz89T8RsNlsrV7v4pTf76+anLxeEFlezOZeUlNT86q+Xv+ZxWL5o5i+AICREesls7mXU6nVBMA7FZVaTczmXs5qvWgvCtxisUwdb2t7Z+Dt5XhbG7FYLFMfBLwoEiMj1kt7AZ5NIq87bDZbq9ncy+XrWMxeUKnVee3N5l7OZrO18rg0/+P1Lk7dn3Hu2OlalsWXwWWw6qpdVy9bztRo8K1e/1bd/Rkn5fUuCq6g+dn7/f6qSCCwo8MnhBQMnC3JUBBalt3RHgkE4Pf7q+x2+wmBQDgcupLvnK9UVmIhHi+awNxmKi/5ycnrVDC4fBkAaIdjtMHne2rIN1AHTWPjxcuiCRCfFzVlB/Lqfb6nBodjtIGOxTaanvl81dsNxAwjLOFzmoJEKiuKwDRHUFUiyat/5vNVx2IbTeJoLKpulctw2GTc0eGj1CbI77/hCChUcmkkW5ox++jxrsBaloVBxWCIplDx+hUcx44iJN6HVxvJHLsnACKRSKM4EU8Yw+k0amIxXHM/giedBgB00xS0HMEdkQiedBrdTicOnTyJb44dRXq/EqKVmPDdMfvbdzDNEcDtQTe9CABwU8KBw3f1OqxqNEgmkwYx4biyG64FsOoq9HW041amc0gux+n1NZQTDg/prf1p3CfG9H0njmQGmqBoNBAOWo6gnKYQzHz5CfB2t+RyeFbXwIpE6Otoxy+r63jiWsC5w4dVYgBQlpZi9tFjPGYYjHZ2gJ3/C+zSS9wEhdMg4IMmffs2QvJSTMQTOE/SOE/SuAkK5TSFChA8pCk0ZdlXgGAZFM6tr+GY5iDqmz7G8MwsUtGosL/EFE2H+aVJRaMYnpnFmZZmNMpkmHZ7cISm4M7MlOvsxFcZWy7z7QIEN5jE+0ClNgGnEyG5HFhfwxhHcLWBRVijwY8ZcF4oio6IpTLpbKVSgedZJG64FtCmKAUrEmEi095tMuHS3BO87bLKFi3L4nuTCQMPZuDkyZaV4drdezl2lUoFJBKJS8womcD2I9ZjaMTc3Xv4gn5zNy0qFPhaRAOag1t1iRT6ZOKNnq8n4kjvV2Ioqy8dDkPLsnju8QhtEqkMKpVqgVYqS+ZrdbqlbALsZgo/ARjjCCYoGqK2T5FYWRH0jTJZDjiAnLorEkXq0CGMcQRjHMHPgQA+r6vNsa/V6ZaUypJ58cDAsHto6IILQDW/hMlQEMDWTu7qaMe1YAiRP+dwQCYFADzI8iMA/B1PCDoAcL54ibPtp+BgmC1XrK6hO5F7D+h0dS4hebXb7Sf4UNyj15MevZ6c1xwk412du4ZdMcPsqje2NJPxrk5iUpSSQUMj0bKsEJL5YCRIf3/fkkqtJj16PRnv6iRn20/9K0AhRcuyZLyrk1xtYEmPXk9UajXp7+/LcTmANwmJmGEEpv9nOdt+irAi0Y6EJEes1ov2vUzJjC3N+VMyXvYyKR0aunBnV/C9ImFsaS4cnBer9aL9fTxMPvjTrKBB7Xb7iWBw+fJ7f5xuF/55HolEGpPJpIEQTgVsRTWJROJSqVQLxT7P/wGr4UmNV6zVZAAAAABJRU5ErkJggg==",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": false,
+    "style": 0,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": true,
+  "watermark": false
 }
