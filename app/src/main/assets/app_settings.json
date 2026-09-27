@@ -1,50 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "watermark": true,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "c300982b-9360-48f0-9aa8-628606aa60b1",
+  "appName": "RoyalsniperAI",
+  "appIcon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI4AAACOCAIAAABon6dfAAAAAXNSR0IArs4c6QAAAANzQklUCAgI2+FP4AAAA4ZJREFUeJzt3cFymzAURmFJ4Tk7003f/wFi3S5wElGQDQY3HOd8C4/HaR3gzzVcBHL+8/tX6ss5L75eSrnxv04kmuXM9fNpKe161eb529MX6VGQLS6jAjEqDKPCGCIi9Q8f6MrkKKH3d3neQ4mWVYVhVBhGhWFUGEaFYVQYRoUx3P7x2HXN1VoXX+/5rtO7lOVc47xLpn8YFYZRYRgVhlFhGBWGUWEMj41U9fqt3rv1+psz9zFn45bCKBHRKxGdSkn9TzOdilWFYVQYHlZgWFUYw9sb4yo4+QGIYVQYRoVhVBhGhWFUGEaFMdzuf4+674oyLrX1usGt9mwHxhZUMioQo8IwKgyjwjAqDKPCGMZOYuvx/tZ+y+sA93NLYRgVhlFhGBWGUWEYFYZRYVyvAzzqqs2t7/NK80qssWd92Wv+oxgVhlFhGBWGUWEYFYZRYdyZD7Bn67wVekzbh1lVGEaFYVQYRoVhVBhGhWFUGMP7+3tKqTd7xeVySR/dUvvYs7Xfcl7B9V5/DV+GUWEYFYZRYRgVhlFhGBXGnfGqeb9yzu8R/gn91uusycszKgyjwjAqDKPCMCoMo8IYUrqkj3GpuZyXG69+v9K+T1l+Hs3z/Nz59043v1933dtxu06PuO036fsYFYZRYdy9Zr13b6/f+PK/WVUYRoVhVBjXfVV//Om5fYnWs6ow7h0B9s4m9IowzP5Z3LIYRoVhVBhGhWFUGJMjwPl9VNE7onvyKcCj5sXYOj/h5usbx+2zMPJUm9fbnz44UUiyqkAeD1kp3RjJbY31sPe8j1WFYVUdYs0ecW9VWFUYVtVO83pq9kmHnhG1qjAm3wscESe5ceoki7HC7eO6eSU8fhxoVWG4r9pnPp533T/Na2Dv54RVhWFV7TRW1e2/+GP2u1YVhlEdonYO7fJXSUXZ2WYZFcYwjkjlfM0sIk2HeK73S+Wc18wHmNLyvIITO+6pevb4U9Tm3zfLOX2br9ent2/VlBZPB+bmp/ZVP4BRYRgVhlFhGBWGUWEYFcb1HGCvX4mon63JOJo1PnLGk16HVYVhVBhGhWFUGEaFYVQYRoVx59qKiBKRcs7j4zj0EtH9vqujbB2X+jbdgd3j5/uwqjDunK3QeVhVGFYVhlWFcaeqPIN+HlYVxjDORL5mvvCI+Cy+WmvOuZTyMb1F1FojYuy3/rloMOfcm+/cql3vL42n7YthbYjsAAAAAElFTkSuQmCC",
+  "package": "com.app.royalsniperai",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "http://eanexus.co.za",
+  "themeColor": "#5B5BD6",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI4AAACOCAIAAABon6dfAAAAAXNSR0IArs4c6QAAAANzQklUCAgI2+FP4AAAA4ZJREFUeJzt3cFymzAURmFJ4Tk7003f/wFi3S5wElGQDQY3HOd8C4/HaR3gzzVcBHL+8/tX6ss5L75eSrnxv04kmuXM9fNpKe161eb529MX6VGQLS6jAjEqDKPCGCIi9Q8f6MrkKKH3d3neQ4mWVYVhVBhGhWFUGEaFYVQYRoUx3P7x2HXN1VoXX+/5rtO7lOVc47xLpn8YFYZRYRgVhlFhGBWGUWEMj41U9fqt3rv1+psz9zFn45bCKBHRKxGdSkn9TzOdilWFYVQYHlZgWFUYw9sb4yo4+QGIYVQYRoVhVBhGhWFUGEaFMdzuf4+674oyLrX1usGt9mwHxhZUMioQo8IwKgyjwjAqDKPCGMZOYuvx/tZ+y+sA93NLYRgVhlFhGBWGUWEYFYZRYVyvAzzqqs2t7/NK80qssWd92Wv+oxgVhlFhGBWGUWEYFYZRYdyZD7Bn67wVekzbh1lVGEaFYVQYRoVhVBhGhWFUGMP7+3tKqTd7xeVySR/dUvvYs7Xfcl7B9V5/DV+GUWEYFYZRYRgVhlFhGBXGnfGqeb9yzu8R/gn91uusycszKgyjwjAqDKPCMCoMo8IYUrqkj3GpuZyXG69+v9K+T1l+Hs3z/Nz59043v1933dtxu06PuO036fsYFYZRYdy9Zr13b6/f+PK/WVUYRoVhVBjXfVV//Om5fYnWs6ow7h0B9s4m9IowzP5Z3LIYRoVhVBhGhWFUGJMjwPl9VNE7onvyKcCj5sXYOj/h5usbx+2zMPJUm9fbnz44UUiyqkAeD1kp3RjJbY31sPe8j1WFYVUdYs0ecW9VWFUYVtVO83pq9kmHnhG1qjAm3wscESe5ceoki7HC7eO6eSU8fhxoVWG4r9pnPp533T/Na2Dv54RVhWFV7TRW1e2/+GP2u1YVhlEdonYO7fJXSUXZ2WYZFcYwjkjlfM0sIk2HeK73S+Wc18wHmNLyvIITO+6pevb4U9Tm3zfLOX2br9ent2/VlBZPB+bmp/ZVP4BRYRgVhlFhGBWGUWEYFcb1HGCvX4mon63JOJo1PnLGk16HVYVhVBhGhWFUGEaFYVQYRoVx59qKiBKRcs7j4zj0EtH9vqujbB2X+jbdgd3j5/uwqjDunK3QeVhVGFYVhlWFcaeqPIN+HlYVxjDORL5mvvCI+Cy+WmvOuZTyMb1F1FojYuy3/rloMOfcm+/cql3vL42n7YthbYjsAAAAAElFTkSuQmCC",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": true,
+    "style": 0,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": true,
+  "watermark": false
 }
