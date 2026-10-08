@@ -1,50 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "watermark": true,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "bab99b70-8b3a-4c16-8385-fe290d654f6f",
+  "appName": "funkin packer",
+  "appIcon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAASQSURBVFiFxZlbbFVFFIb/VbBFaUDxloC1RUW8xHsUL0FrhBIwUaPyZjASNSpqYihEEyXF4oMPXmIkDTx4QY0RMRrDSwUL4oXSkIiG+GBipaHEJmg1Faii+Pmwz6HT6ezdOfuc0vXSds1a//r2dO05M3OkChlQA6xlpL0N1FaqTkUMeBT4KwBbtGPAivHmFNAI7PPgDgP3AAuBfm/sF+D28QCtBzoCM7kOqHHiqoCXA3GdwOwTAZrWp53ArIy8c1IecOz6G1gO/O0VPAjc4cWdDJybonEb0OtpHANWVRJ0AdATmJ0XgCovdhbwRWF8A3BaiuYzwL+eXh9wdzmgFwI7A6CfAmcE4hcFYgGeTtGfArwfiP8OuLIU0FrgrYDQXuC6jLwJJKvDT4HcPmBhSt7lwO5AziZg2miwzSQ95dqfwH3RT5zoLAMGAxDfABek5NwF/BbIWR0KXkSyRvr2CjChFFhHcxJJn/trMcB6YFJK3vOB+H5gcTFgcyCgA6jLAxoAaAnoAxwFlqXknJXCtVXAgOM4AMyrEOj5wPYUWNf2AU0pGjcy/J0Y8IFvqABoLdCWArcGeAw4FBhrB+oDepdmAaeuApGwyxn50kIy0/VO3CnAGykPtQ6nv4GLooBJ9gAPR4I2kbSTb/vJaDGStb4zkLc5D/AnBV87MD2l4ExgR6DgIPBkzMMWdGYA3U7+1jTgqgydY4WfTZIOAC8BJxVEaoA2Sd2S5np5bZKmmtlrscCSZkqqjorMmOGPAjPXQ7JO+ntgSPYQDSVACpjPyM1Q5gzHAodepKLtBOaXCNrA0CYpZLlawrVnJT0e8B+V9KCZbYkEnQKsl/SzpJudoVclPRejEQs8aGZrJdVJ+tzxV0vaC7yIt9UMwK6S9Iekhxz3j5KuN7OnJO0vF3jEmJn1mtk8SbdK6nGGVkr6MgO2XdJqSVZwHZG01Mxmm9mugi9qz1ISsAO+3cwaJD0h6Z+CO2sreKrz+0Yzm2xmb8YARkN51gw0+k4ze13SVEmfSZocqfVBiv+mmOSYdViSZkjaBnQBl7lBZjZoZgskNQKx0MeNZB/cJ2mp4x7IA0zAd62k74EP8Y5JZtZtZodjGAugFwO7JX0s6WxnvNXMUs92sS2xSdJXzt/3SjoIPBCZ79pE4BFJP0i6xvHvkFRnZpkn6FjgDjObK2mJpH7Hv6QUUiWz+66Sj++ifStpjpndYma9ownEAtdIkpm9Y2anSyrOQqk9axraM/wuabGZXW1mXbECscDDq5q1SrpK0nt58iWtMbNpZrap1MSJOQvKzPZI2pMj9X4z25C3bq4ZLtMOlZOcBbxCUrG3ch31x8L8ljgOZmbdkuYAKzV8ZTjRNnyyGKNjvldjl1Mj+sKPwDG/SsmCXbTpkrYA26jQRUoeo3CRIulrSec5Q13FgIpfVXkA0TMMtAY4hq6qvOCKXAZmAB8BLkmJSbsMbBlNPNd16yiau4GNof8W5Vy3ekJZF9pnlqBTHSpM9oX2FdGgAeG0/m4pQ7MZ+M/TC/dpGUVCX8r8CtxZgsbYfynjFRz3r73+B4vKWKfW8qakAAAAAElFTkSuQmCC",
+  "package": "com.app.funkinpacker",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "https://neeeoo.github.io/funkin-packer/",
+  "themeColor": "#5B5BD6",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAASQSURBVFiFxZlbbFVFFIb/VbBFaUDxloC1RUW8xHsUL0FrhBIwUaPyZjASNSpqYihEEyXF4oMPXmIkDTx4QY0RMRrDSwUL4oXSkIiG+GBipaHEJmg1Faii+Pmwz6HT6ezdOfuc0vXSds1a//r2dO05M3OkChlQA6xlpL0N1FaqTkUMeBT4KwBbtGPAivHmFNAI7PPgDgP3AAuBfm/sF+D28QCtBzoCM7kOqHHiqoCXA3GdwOwTAZrWp53ArIy8c1IecOz6G1gO/O0VPAjc4cWdDJybonEb0OtpHANWVRJ0AdATmJ0XgCovdhbwRWF8A3BaiuYzwL+eXh9wdzmgFwI7A6CfAmcE4hcFYgGeTtGfArwfiP8OuLIU0FrgrYDQXuC6jLwJJKvDT4HcPmBhSt7lwO5AziZg2miwzSQ95dqfwH3RT5zoLAMGAxDfABek5NwF/BbIWR0KXkSyRvr2CjChFFhHcxJJn/trMcB6YFJK3vOB+H5gcTFgcyCgA6jLAxoAaAnoAxwFlqXknJXCtVXAgOM4AMyrEOj5wPYUWNf2AU0pGjcy/J0Y8IFvqABoLdCWArcGeAw4FBhrB+oDepdmAaeuApGwyxn50kIy0/VO3CnAGykPtQ6nv4GLooBJ9gAPR4I2kbSTb/vJaDGStb4zkLc5D/AnBV87MD2l4ExgR6DgIPBkzMMWdGYA3U7+1jTgqgydY4WfTZIOAC8BJxVEaoA2Sd2S5np5bZKmmtlrscCSZkqqjorMmOGPAjPXQ7JO+ntgSPYQDSVACpjPyM1Q5gzHAodepKLtBOaXCNrA0CYpZLlawrVnJT0e8B+V9KCZbYkEnQKsl/SzpJudoVclPRejEQs8aGZrJdVJ+tzxV0vaC7yIt9UMwK6S9Iekhxz3j5KuN7OnJO0vF3jEmJn1mtk8SbdK6nGGVkr6MgO2XdJqSVZwHZG01Mxmm9mugi9qz1ISsAO+3cwaJD0h6Z+CO2sreKrz+0Yzm2xmb8YARkN51gw0+k4ze13SVEmfSZocqfVBiv+mmOSYdViSZkjaBnQBl7lBZjZoZgskNQKx0MeNZB/cJ2mp4x7IA0zAd62k74EP8Y5JZtZtZodjGAugFwO7JX0s6WxnvNXMUs92sS2xSdJXzt/3SjoIPBCZ79pE4BFJP0i6xvHvkFRnZpkn6FjgDjObK2mJpH7Hv6QUUiWz+66Sj++ifStpjpndYma9ownEAtdIkpm9Y2anSyrOQqk9axraM/wuabGZXW1mXbECscDDq5q1SrpK0nt58iWtMbNpZrap1MSJOQvKzPZI2pMj9X4z25C3bq4ZLtMOlZOcBbxCUrG3ch31x8L8ljgOZmbdkuYAKzV8ZTjRNnyyGKNjvldjl1Mj+sKPwDG/SsmCXbTpkrYA26jQRUoeo3CRIulrSec5Q13FgIpfVXkA0TMMtAY4hq6qvOCKXAZmAB8BLkmJSbsMbBlNPNd16yiau4GNof8W5Vy3ekJZF9pnlqBTHSpM9oX2FdGgAeG0/m4pQ7MZ+M/TC/dpGUVCX8r8CtxZgsbYfynjFRz3r73+B4vKWKfW8qakAAAAAElFTkSuQmCC",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": true,
+    "style": 1,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": true,
+  "watermark": false
 }
