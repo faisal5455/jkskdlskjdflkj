@@ -1,50 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "watermark": true,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "9b826b7d-69de-4bb2-a5e7-b0d0a0213fc7",
+  "appName": "Clima",
+  "appIcon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAABUJJREFUaIHtmW2IVFUYx3/n7uxbzq6m5utqKPmSa/nSStpXJUJSilprY+tDomjiB+mDIQVLVPglkFLDIhWiJFO/rAViaIJhICKWWBZYrVZqOrg7O+u83PM8fZjZdXb2zsyd2RlXaB84HObcc+79/c95znOfOReGbdj+32ZKdaP4MeaJy1KUxSLMcoQpYgmqgrF0Ax2q/GpcTolyLPgi50rx3EEJ0JPUxRKsNZbVCA+rAAoqgNypvdpUuWCET3uq+XjcKrrvqgA9TiBh2GiFNx1hdB+Yf/jkNQG13FTlnfrLbDdtuGUXEDvObGPYp8J80sGKge9fnzWWlvrXuFgIj1NI5+gJVmI4XXJ4BVWzQNScDu1gRVkExL/jZaMcRAiWHF5Mb586rDkU2karXy5fLhQ9wcoUfKBs8GnjRXCN6LOjX+fwoAVETzDDCGdQ6u4GfFqfbk3oorFb+CUXX04X0uMEHGX/EMCDEMQxn2sbgaIFJAwby7Jh88P3jl8YqmBDLsasLqRHGBEL8IdRxg4RPAiI5aap0WkPbCZc0ArEqlg31PAqYJQxdLMmG2dWAan0YEjhe2vBrC5IQPwY8yg8tykLPMn2OVe3MNe3AHFZdq/A942zLPUtAOXxewpeANdZ4oXqGWNVmJ1501LCiwXXhWgcEm6yPWCgpgIqAJMBrwKgs3wLQJlULvhoHLqYSO1j66iftZyq+6chNk70xiU6f2onenYvo9xrVJkBq9Hgher5HuhpJ4ZQVWr48G2ITW1m0srtONV1qGpfEVVUFDcS4uqBjYzsOEyl6Tc+NnGb1mSyeu6Bcs18dEozDc/txVQGsVb6FbGCiGBqRjKuZTedk58iHIXuKLi2140GmqcLGSGMMqaUG/aWjqdhxQfYtFnvN/vpBcOYlt2oKInwNcI/H8We/Og2/D6A1XMFjOXvUsG7LkSiUP3oGqgMIiLYjCJppa9NHQQHJziBYFMrI9Ydqb/U8deTA1i9BEQOsh9L82Dg3QSEYrVULthE3dxmKkc9CMZBRVEl++znWhmVsBH7yPTp0//M7UKWH0RoLhY+kYDrkVrGrmqntmHRHQCRDCjyAA9orxPVN4D1OQWIy7dQHLxauBWBmqZN1Exuwor4nOE8YiTVblmezuq5B4Iv8aPA+WKjTU8Mgo3NWf27n++nIpC1NlXSolLftbRxKuPzCgBwLHuKiTYJNxn2KkZM8A6V6VDWayNbrFjPTZ7c3HLVl4BuZZcoNwrNbaxN1rFbV/LPfs5rdoCYVPs3vgRMeIUIlncLTsw0edPOc/s9Hp5HTMaK3Vm1XveyXdboVl8CAOovsx3hbCFZZYBkYtb5/Yf0dJxOzmKab2d1JZtbqKjtEivPNzU2dqQz5j1W6dzBQ2rMGRXq/aQX0Xgy54nE4LbUEFy8nvvmPIMzsgGMg2REm1yRR8QKcEWErx3rbG1q6g/vSwBAaAcrsOaQUQL53tBik/A9MYglIBZPttlULtPb32s10b7ara3SF5Z8yaF8bL4Pd0PbaFU1e4ykicjynnBtKtdPJKOStSn4jL7JM9EB492A1bXzD7DHD1dBp9Oh93laxXyBUJfvn5RYsCl49fPvLvm7C9XWGZ/R7pep4OP1f99jpnHMPoSF2eDJ0pYrCKCcUdGWKXv5rRCe4j5wtBEIVbDBinnL9KbdRcKr5QaibzdE2Gm+whbKMqhPTNfbCBrLWjCvitBYELxyHqu7q6r5ZNzOu/yJycv+2UyjgWWo8wRWZ6oyFUswJSaMclnFXDQipwwcnbiLC6V69rAN27AN29DZf5sKXCQ2/bcaAAAAAElFTkSuQmCC",
+  "package": "com.app.clima",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "https://weather.com/es-US/tiempo/hoy/l/Romero+Regi%C3%B3n+de+Coquimbo+1700000+Chile?canonicalCityId=5b0557dc890608915440ee70285e88d6",
+  "themeColor": "#5B5BD6",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAABUJJREFUaIHtmW2IVFUYx3/n7uxbzq6m5utqKPmSa/nSStpXJUJSilprY+tDomjiB+mDIQVLVPglkFLDIhWiJFO/rAViaIJhICKWWBZYrVZqOrg7O+u83PM8fZjZdXb2zsyd2RlXaB84HObcc+79/c95znOfOReGbdj+32ZKdaP4MeaJy1KUxSLMcoQpYgmqgrF0Ax2q/GpcTolyLPgi50rx3EEJ0JPUxRKsNZbVCA+rAAoqgNypvdpUuWCET3uq+XjcKrrvqgA9TiBh2GiFNx1hdB+Yf/jkNQG13FTlnfrLbDdtuGUXEDvObGPYp8J80sGKge9fnzWWlvrXuFgIj1NI5+gJVmI4XXJ4BVWzQNScDu1gRVkExL/jZaMcRAiWHF5Mb586rDkU2karXy5fLhQ9wcoUfKBs8GnjRXCN6LOjX+fwoAVETzDDCGdQ6u4GfFqfbk3oorFb+CUXX04X0uMEHGX/EMCDEMQxn2sbgaIFJAwby7Jh88P3jl8YqmBDLsasLqRHGBEL8IdRxg4RPAiI5aap0WkPbCZc0ArEqlg31PAqYJQxdLMmG2dWAan0YEjhe2vBrC5IQPwY8yg8tykLPMn2OVe3MNe3AHFZdq/A942zLPUtAOXxewpeANdZ4oXqGWNVmJ1501LCiwXXhWgcEm6yPWCgpgIqAJMBrwKgs3wLQJlULvhoHLqYSO1j66iftZyq+6chNk70xiU6f2onenYvo9xrVJkBq9Hgher5HuhpJ4ZQVWr48G2ITW1m0srtONV1qGpfEVVUFDcS4uqBjYzsOEyl6Tc+NnGb1mSyeu6Bcs18dEozDc/txVQGsVb6FbGCiGBqRjKuZTedk58iHIXuKLi2140GmqcLGSGMMqaUG/aWjqdhxQfYtFnvN/vpBcOYlt2oKInwNcI/H8We/Og2/D6A1XMFjOXvUsG7LkSiUP3oGqgMIiLYjCJppa9NHQQHJziBYFMrI9Ydqb/U8deTA1i9BEQOsh9L82Dg3QSEYrVULthE3dxmKkc9CMZBRVEl++znWhmVsBH7yPTp0//M7UKWH0RoLhY+kYDrkVrGrmqntmHRHQCRDCjyAA9orxPVN4D1OQWIy7dQHLxauBWBmqZN1Exuwor4nOE8YiTVblmezuq5B4Iv8aPA+WKjTU8Mgo3NWf27n++nIpC1NlXSolLftbRxKuPzCgBwLHuKiTYJNxn2KkZM8A6V6VDWayNbrFjPTZ7c3HLVl4BuZZcoNwrNbaxN1rFbV/LPfs5rdoCYVPs3vgRMeIUIlncLTsw0edPOc/s9Hp5HTMaK3Vm1XveyXdboVl8CAOovsx3hbCFZZYBkYtb5/Yf0dJxOzmKab2d1JZtbqKjtEivPNzU2dqQz5j1W6dzBQ2rMGRXq/aQX0Xgy54nE4LbUEFy8nvvmPIMzsgGMg2REm1yRR8QKcEWErx3rbG1q6g/vSwBAaAcrsOaQUQL53tBik/A9MYglIBZPttlULtPb32s10b7ara3SF5Z8yaF8bL4Pd0PbaFU1e4ykicjynnBtKtdPJKOStSn4jL7JM9EB492A1bXzD7DHD1dBp9Oh93laxXyBUJfvn5RYsCl49fPvLvm7C9XWGZ/R7pep4OP1f99jpnHMPoSF2eDJ0pYrCKCcUdGWKXv5rRCe4j5wtBEIVbDBinnL9KbdRcKr5QaibzdE2Gm+whbKMqhPTNfbCBrLWjCvitBYELxyHqu7q6r5ZNzOu/yJycv+2UyjgWWo8wRWZ6oyFUswJSaMclnFXDQipwwcnbiLC6V69rAN27AN29DZf5sKXCQ2/bcaAAAAAElFTkSuQmCC",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": false,
+    "style": 0,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": false,
+  "watermark": false
 }
