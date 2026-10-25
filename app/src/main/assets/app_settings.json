@@ -1,50 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "watermark": true,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "3f09066e-365f-41d7-97f7-2e0a8cfba215",
+  "appName": "Kap's Money",
+  "appIcon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAIAAADdvvtQAAAAAXNSR0IArs4c6QAAAANzQklUCAgI2+FP4AAABPhJREFUeJzt3T1uE1EUhuEbRIWoEamgjVgI26CHioVQhZ5tsJBAG6pI1BEtFBMZgxPHc785f/e+TwUICc/x6zNjZ0jOvr181YBeT6IfAGojIEgICBICgoSAICEgSAgIEgKChIAgISBICAgSAoKEgCAhIEgICBICgoSAICEgSAgIEgKChIAgISBICAgSAoKEgCAhIEgICBICgoSAIHka/QDWubi5jn4IHr6fv45+CKc6y//tXSaJ5iHJY8ob0OTdHMpZUsaASOeIbBnlCoh0TpQnoywBkU6HDBmleBtPPX0yzC0+oAxTqCt8epGnsPCDH0nU6SxsA1HPtqLmGRMQ9VgImWpAQNRjx3+28RfRKM07INaPNecJuwZEPT485+wXEPV4cps210CQOAXE+vHnM3M2ECQeAbF+ojhMng0EiXlArJ9Y1vNnA0FS7L/1ZLN/E8Wcu9b2fqCBZ/rQ/Tc5D9nubiFOYT2OPB8Z7lP2RECrPZrIVA0RkIl5GjIMKOfVgOj0MlI1ZPdcsIEMpWrICAFBQkC2hl9CBLROx8XE2A0RkIeBGyKg1fre0YzaEAH1oKEdAupEQwsC6jfkJ6VrEZC3wZYQAUk4kRGQavKGCGgDMzdEQNuYtiEC2sycDaW+qb7cLesXN9fVg1graUCHT8PAT8z389clXh73yngKG7iVh9Q95HQB1R2lqOiBpwtoWkXPYrkCKvoq3ETRY88VEMohIEgICJJcARW9kNxE0WPPFRDKSRdQ0ReiqO5RpwuoVZ5mh4ub69LHm/RrYctMYz8aefXlx/5vf7zb/jtxlU5nkTSgRdR8f309O/zDpadnb3+7P5zUUgfk7950Dv8CGe1kvAaK8mg9HX9zeAQECQHdWbtUWEILAoKEgFrrXScsoUZAEBEQJAQECQFBQkCt9X6yzOfRjYAgIqA7a9cJ62dBQJAQ0F+nLxXWzw63c/xjKePIR8xu6Tx/82H369urS59/tIPhj7z0uR1sf9Db+vnp8/5vX3x8b/QPnUjMyOj2zsIB2aWTltKQUUBVr4EmrKelPOqqASGJkgElfCG6yXbsJQNCHgQECQFBUjKgzB+sWct27CUDQh4EVEm29dPqBpRwlNZyHnLVgFrWgVq4vbpMe7C1vxp/e3XZ8cFa2iejosIbqFu2D3NLKx9Q3zqhoa2UD6jRUKgRAmo0FGeQgBoNBRknoEZDEYYKqPEW3d1oAfVhCXUbMCBOZJ4GDKjRkKMxA2pcDHkZNqDW1RBLaK2RA2rsIXuDB9RoyNj4AcHUFAGdvoRYV2sZBpTqB6FPXobdczHFBlo82tDkkfWZKKB2NBHq6VP7nugOSyhVvv9XfobfYGoxwI8Frc70YnSuUxg2R0CQmAeU6s38hKznzwaCxCMgllAUh8mzgSBxCogl5M9n5mwgSPwCYgl5cpu26waiIR+ec/Y+hdGQNecJcw0ESUBALCE7/rON2UA0ZCFkqmGnMBraVtQ8ze8HehQ3DIliX4rxF9GsIkX49OIDagmmUFSGucWfwvZxOjtRhnQWuQJakNERedJZZAxoQUb/yZbOIm9AO5OXlLObnQIB7ZskpuTR7CsWELJJ8TYedREQJAQECQFBQkCQEBAkBAQJAUFCQJAQECQEBAkBQUJAkBAQJAQECQFBQkCQEBAkBAQJAUFCQJAQECQEBAkBQUJAkBAQJAQECQFB8gd792gP+DtsBgAAAABJRU5ErkJggg==",
+  "package": "com.app.kapsmoney",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "https://zippy-tulumba-deafed.netlify.app",
+  "themeColor": "#5A0707",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAIAAADdvvtQAAAAAXNSR0IArs4c6QAAAANzQklUCAgI2+FP4AAABPhJREFUeJzt3T1uE1EUhuEbRIWoEamgjVgI26CHioVQhZ5tsJBAG6pI1BEtFBMZgxPHc785f/e+TwUICc/x6zNjZ0jOvr181YBeT6IfAGojIEgICBICgoSAICEgSAgIEgKChIAgISBICAgSAoKEgCAhIEgICBICgoSAICEgSAgIEgKChIAgISBICAgSAoKEgCAhIEgICBICgoSAIHka/QDWubi5jn4IHr6fv45+CKc6y//tXSaJ5iHJY8ob0OTdHMpZUsaASOeIbBnlCoh0TpQnoywBkU6HDBmleBtPPX0yzC0+oAxTqCt8epGnsPCDH0nU6SxsA1HPtqLmGRMQ9VgImWpAQNRjx3+28RfRKM07INaPNecJuwZEPT485+wXEPV4cps210CQOAXE+vHnM3M2ECQeAbF+ojhMng0EiXlArJ9Y1vNnA0FS7L/1ZLN/E8Wcu9b2fqCBZ/rQ/Tc5D9nubiFOYT2OPB8Z7lP2RECrPZrIVA0RkIl5GjIMKOfVgOj0MlI1ZPdcsIEMpWrICAFBQkC2hl9CBLROx8XE2A0RkIeBGyKg1fre0YzaEAH1oKEdAupEQwsC6jfkJ6VrEZC3wZYQAUk4kRGQavKGCGgDMzdEQNuYtiEC2sycDaW+qb7cLesXN9fVg1graUCHT8PAT8z389clXh73yngKG7iVh9Q95HQB1R2lqOiBpwtoWkXPYrkCKvoq3ETRY88VEMohIEgICJJcARW9kNxE0WPPFRDKSRdQ0ReiqO5RpwuoVZ5mh4ub69LHm/RrYctMYz8aefXlx/5vf7zb/jtxlU5nkTSgRdR8f309O/zDpadnb3+7P5zUUgfk7950Dv8CGe1kvAaK8mg9HX9zeAQECQHdWbtUWEILAoKEgFrrXScsoUZAEBEQJAQECQFBQkCt9X6yzOfRjYAgIqA7a9cJ62dBQJAQ0F+nLxXWzw63c/xjKePIR8xu6Tx/82H369urS59/tIPhj7z0uR1sf9Db+vnp8/5vX3x8b/QPnUjMyOj2zsIB2aWTltKQUUBVr4EmrKelPOqqASGJkgElfCG6yXbsJQNCHgQECQFBUjKgzB+sWct27CUDQh4EVEm29dPqBpRwlNZyHnLVgFrWgVq4vbpMe7C1vxp/e3XZ8cFa2iejosIbqFu2D3NLKx9Q3zqhoa2UD6jRUKgRAmo0FGeQgBoNBRknoEZDEYYKqPEW3d1oAfVhCXUbMCBOZJ4GDKjRkKMxA2pcDHkZNqDW1RBLaK2RA2rsIXuDB9RoyNj4AcHUFAGdvoRYV2sZBpTqB6FPXobdczHFBlo82tDkkfWZKKB2NBHq6VP7nugOSyhVvv9XfobfYGoxwI8Frc70YnSuUxg2R0CQmAeU6s38hKznzwaCxCMgllAUh8mzgSBxCogl5M9n5mwgSPwCYgl5cpu26waiIR+ec/Y+hdGQNecJcw0ESUBALCE7/rON2UA0ZCFkqmGnMBraVtQ8ze8HehQ3DIliX4rxF9GsIkX49OIDagmmUFSGucWfwvZxOjtRhnQWuQJakNERedJZZAxoQUb/yZbOIm9AO5OXlLObnQIB7ZskpuTR7CsWELJJ8TYedREQJAQECQFBQkCQEBAkBAQJAUFCQJAQECQEBAkBQUJAkBAQJAQECQFBQkCQEBAkBAQJAUFCQJAQECQEBAkBQUJAkBAQJAQECQFB8gd792gP+DtsBgAAAABJRU5ErkJggg==",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": true,
+    "style": 1,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": true,
+  "watermark": false
 }
