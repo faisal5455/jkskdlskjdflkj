@@ -10,6 +10,9 @@ androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = 
 androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 androidx-swiperefreshlayout = { group = "androidx.swiperefreshlayout", name = "swiperefreshlayout", version = "1.1.0" }
+# Serves assets over https://appassets.androidplatform.net so bundled HTML/ZIP
+# sites get a real web origin (ES modules, fetch, CORS all behave).
+androidx-webkit = { group = "androidx.webkit", name = "webkit", version = "1.12.1" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
