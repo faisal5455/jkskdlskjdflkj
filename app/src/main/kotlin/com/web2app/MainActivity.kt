@@ -23,6 +23,7 @@ import android.widget.ImageView
 import android.widget.LinearLayout
 import android.webkit.*
 import androidx.appcompat.app.AppCompatActivity
+import androidx.webkit.WebViewAssetLoader
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import com.web2app.data.AppRepository
 import com.web2app.handlers.PermissionsHandler
@@ -44,6 +45,17 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var permissionsHandler: PermissionsHandler
     private var connectivityManager: ConnectivityManager? = null
+
+    /**
+     * Serves files packaged in assets/www over https://appassets.androidplatform.net,
+     * giving bundled HTML/ZIP sites a real web origin — ES modules, fetch and CORS
+     * all work, which they do not under a plain file:// load.
+     */
+    private val assetLoader: WebViewAssetLoader by lazy {
+        WebViewAssetLoader.Builder()
+            .addPathHandler("/assets/", WebViewAssetLoader.AssetsPathHandler(this))
+            .build()
+    }
     private var networkCallback: ConnectivityManager.NetworkCallback? = null
 
     companion object {
@@ -209,6 +221,8 @@ class MainActivity : AppCompatActivity() {
         webView.settings.apply {
             javaScriptEnabled = true
             domStorageEnabled = true
+            setGeolocationEnabled(true)
+            mediaPlaybackRequiresUserGesture = false
             databaseEnabled = true
             setSupportMultipleWindows(true)
             javaScriptCanOpenWindowsAutomatically = true
@@ -247,6 +261,10 @@ class MainActivity : AppCompatActivity() {
                 return false
             }
 
+            override fun shouldInterceptRequest(
+                view: WebView, request: WebResourceRequest
+            ): WebResourceResponse? = assetLoader.shouldInterceptRequest(request.url)
+
             override fun onPageStarted(view: WebView, url: String, favicon: Bitmap?) {
                 showLoading(true)
             }
@@ -259,6 +277,14 @@ class MainActivity : AppCompatActivity() {
 
         // WebChromeClient with popup-window support – mirrors reference Webview.kt onCreateWindow
         webView.webChromeClient = object : WebChromeClient() {
+            // Camera/mic (getUserMedia) and location requests from the page.
+            override fun onPermissionRequest(request: PermissionRequest) =
+                permissionsHandler.onWebPermissionRequest(request)
+
+            override fun onGeolocationPermissionsShowPrompt(
+                origin: String?, callback: GeolocationPermissions.Callback?
+            ) = permissionsHandler.onWebGeolocationRequest(origin, callback)
+
             override fun onCreateWindow(
                 view: WebView?,
                 isDialog: Boolean,
@@ -275,6 +301,7 @@ class MainActivity : AppCompatActivity() {
                         javaScriptCanOpenWindowsAutomatically = true
                     }
                     webViewClient = object : WebViewClient() {}
+                    webChromeClient = permissionsHandler.webChromeClient()
                 }
 
                 android.app.Dialog(ctx).apply {
@@ -301,6 +328,13 @@ class MainActivity : AppCompatActivity() {
     // ─── Network Connectivity (mirrors connectivityState / observeConnectivityAsFlow) ──
 
     private fun setupConnectivity() {
+        // Apps whose content is bundled inside the APK (file:///android_asset/...)
+        // work with no connection at all — never show them the offline screen.
+        if (isOfflineContent()) {
+            showWebContent()
+            return
+        }
+
         connectivityManager =
             getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
 
@@ -322,6 +356,13 @@ class MainActivity : AppCompatActivity() {
         }
 
         connectivityManager?.registerNetworkCallback(request, networkCallback!!)
+    }
+
+    /** True when the app serves a site packaged into its own assets. */
+    private fun isOfflineContent(): Boolean {
+        val url = appConfig.websiteURL
+        return url.startsWith("file://") || url.startsWith("content://") ||
+            url.startsWith("https://appassets.androidplatform.net")
     }
 
     private fun isNetworkConnected(): Boolean {
