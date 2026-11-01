@@ -1,50 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "watermark": true,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "8ad299af-79a6-4711-a678-0dce865d4da3",
+  "appName": "Extraordinary Mod Maker",
+  "appIcon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAARBpQ0NQU2tpYQAAGJV9kLFLw0AUxr9WoRQKOjh06HCDq6VaEIdObSF0jRGqW3KmUUjScEnp2qV0LoiziH9D/UNEF5f+CQ7i7HcN9Lqk7/Hu/Xj38e7jgNIajMMWEMWZsq2uGN7eicoaJeYmXJkmKA6q/r5y7cfZHl1RVO/9VLL/sBzFx7myTz4Jch5q9nIONU+zJCPPNCvH7pGfyMfBDns7LBOl9W/kThROpPGNmh/fXLNfsRpIYcNCF4KniwgTZOQpHtkfSBdosgQcKN7H1I/gQ1sW+crxC1f9AgdLM/OegfcFUP82s9NX4GgOrD7NzPxh4ip3+zvldrvAs9h4tjBmBgjpRGBAV5IutdcWznH5D2/WRT6rK00lAAAB50lEQVQ4jZXTu2uUQRQF8N/9sokaW99/SHxUvhAxBjHKogjiA4sgCCqbKDY2FhIrQREsxEoUo4ga37W4vX+D66szWyS7ey2+L7oGLRwYmJl75pw5994J/xjTZk4mNxEpzkwZv/U3XO33hUdrsJkfbxuOziXrMQRRrl32dHiF+Z2h25xUb1UxrniydlDnBsZS3g1ehTiXbKn4PyTXQu4gTmCW7sSkeqsGQxZGUuzFUIhTOJ59r8PG4B6xeDYaBjbjcQFzlr0j7yyxlvhczZ4/Ce/O6b6BovQ21g7xGgsV4DsupNhWyK3JJL5WsQ7x+rL6D4hpj06l3npid5lEmeLilPGrf1bl4bkU05VoM5hFq5byOrG8D/st9Z4tLVdP73kYaGAdRpIRdIqlwP8dtRBnyA3JbmzCqkKM4mM/MNT2kGuqbTN5UfApfnuc2Z/cxyC+p7w6wNOuXhaK0RQXsBqdkEcaDj4oiZUdNmz+Gib6RBNfqvVqVcXKQN4utM82HJ0rYNjCdpzou9ypyNdWs6jOKjtxjJW7LLIGTTzDfMrb5CG87yNsJofJW5gnZ1P3/S+ChvEvC2qnQ9QL7bOTDs4o67yo+XLKgYdty86HqA+KicXP9Ks9L9n3GU/6VFulmqDXKnM11l6C8RNO96i5ykMNMAAAAABJRU5ErkJggg==",
+  "package": "com.app.extraordinarymodmaker",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "https://xmod-craft-hub.base44.app",
+  "themeColor": "#1515E5",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAARBpQ0NQU2tpYQAAGJV9kLFLw0AUxr9WoRQKOjh06HCDq6VaEIdObSF0jRGqW3KmUUjScEnp2qV0LoiziH9D/UNEF5f+CQ7i7HcN9Lqk7/Hu/Xj38e7jgNIajMMWEMWZsq2uGN7eicoaJeYmXJkmKA6q/r5y7cfZHl1RVO/9VLL/sBzFx7myTz4Jch5q9nIONU+zJCPPNCvH7pGfyMfBDns7LBOl9W/kThROpPGNmh/fXLNfsRpIYcNCF4KniwgTZOQpHtkfSBdosgQcKN7H1I/gQ1sW+crxC1f9AgdLM/OegfcFUP82s9NX4GgOrD7NzPxh4ip3+zvldrvAs9h4tjBmBgjpRGBAV5IutdcWznH5D2/WRT6rK00lAAAB50lEQVQ4jZXTu2uUQRQF8N/9sokaW99/SHxUvhAxBjHKogjiA4sgCCqbKDY2FhIrQREsxEoUo4ga37W4vX+D66szWyS7ey2+L7oGLRwYmJl75pw5994J/xjTZk4mNxEpzkwZv/U3XO33hUdrsJkfbxuOziXrMQRRrl32dHiF+Z2h25xUb1UxrniydlDnBsZS3g1ehTiXbKn4PyTXQu4gTmCW7sSkeqsGQxZGUuzFUIhTOJ59r8PG4B6xeDYaBjbjcQFzlr0j7yyxlvhczZ4/Ce/O6b6BovQ21g7xGgsV4DsupNhWyK3JJL5WsQ7x+rL6D4hpj06l3npid5lEmeLilPGrf1bl4bkU05VoM5hFq5byOrG8D/st9Z4tLVdP73kYaGAdRpIRdIqlwP8dtRBnyA3JbmzCqkKM4mM/MNT2kGuqbTN5UfApfnuc2Z/cxyC+p7w6wNOuXhaK0RQXsBqdkEcaDj4oiZUdNmz+Gib6RBNfqvVqVcXKQN4utM82HJ0rYNjCdpzou9ypyNdWs6jOKjtxjJW7LLIGTTzDfMrb5CG87yNsJofJW5gnZ1P3/S+ChvEvC2qnQ9QL7bOTDs4o67yo+XLKgYdty86HqA+KicXP9Ks9L9n3GU/6VFulmqDXKnM11l6C8RNO96i5ykMNMAAAAABJRU5ErkJggg==",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": true,
+    "style": 0,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": true,
+  "watermark": false
 }
