@@ -1,50 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "watermark": true,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "88a891ff-d496-4733-81aa-1b1c93dd159c",
+  "appName": "Granthapura",
+  "appIcon": "data:image/png;base64,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",
+  "package": "com.app.granthapura",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "https://www.granthapura.com",
+  "themeColor": "#5B5BD6",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,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",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": true,
+    "style": 1,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": true,
+  "watermark": false
 }
