@@ -1,50 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "watermark": true,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "7d75b839-41e0-44c6-a04a-d49efe5d9b36",
+  "appName": "ZeusTV Mananger",
+  "appIcon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAANMSURBVHic7ZtPSBRxFMc/U7bFUrArEgopStgSUoSCB2GlkGAL7OYlpLCQDip6EgKLwOisYIcQk0K6dBRC8CC44CEwQhFRiUI9hJiJerBMpsNz2hVmZ2bVnN/szBeG329m3vu+t2+/77f72z8QIEAAP0PjmR6KrtOt63RoEHI7oeOADr81jZ6fEZ7kRdfpRqdTczurY4QGIXQ6o+ugRdr1XxqE+hphYBy2d2CgCVqGzOe5gE+L0DokSjhhyL6yBE6dTBllmucCKktk1CCkRdt13d103MUJtxNwG3nGZK3HzTSOH/kdMvpeAb4vQJ69yX4keuHj1/+RyuFRXQYj7dn5BArI1iHbCquOrAtgheNoj4PI3ApBCxwlmRfbw/cK8H0BHLXA6hb0J2FkBr6syLWL5yFRAc1xKDjrPKBqXP92g5n2AsNT0PoONrfN7587A313of6qfTCVuIy9gGUBhqfg/muZxwqhphyK8+V8aQ0mFmDuu5y/eWCduGpctgVY3YKq51LhmxVQGzNPZnwORmek4pNd5rJTkcsoQMY1oD8pQWKFEmRnF8Zm4fOi3L9WAjcuy73FH1Lx/iQ8vuUdLrB4FRiZkbGmXMaxWUjOS/DNbZmPze63MXy8wgUmBUj0ijyml+Xc6C2jwh865Ei/ZthML4tvoldtLssCHMV7eYNDVa50ZGyBWKGMS2sylhbIeLtHjvRrho3h4xUusFgEa8plAZlYgOW1lPTSMb0MkTCsbOz38QoXWCigoQrCIXEc3VtE2upSvdZWJ9eS82ITDomPl7gsCxAJQ1d96ry0AGJFcDpPjlhRSmoAT++Ij5e4wGYvcD0GTXEYTMK3Vfk6yQxNcai9ZMWkLpftZqg5LhJ6Pyl9ZywsxfnSWw1V1hVWncvRbjASloDNcWfJeYnL958H+L4Ati3w6K35a206rlyAV/fsg6nIFSjAzsDJs+EUKnIFLWAfKrcRtIBTQzPJOZWrylxBCzg1VFG+R8HlewUEBXBi1DIki43Z/OFgdgFV43KsgD+75vODQCUuR4vgy0b7uVOoxhWsAW4n4DYyfy/w4uiCqMoFJgqoLjs8qcGhKlc6bH8hkqsIfi2+h+AfI8CG20m4CD8/9gABAgB/AVkSInN+kHVlAAAAAElFTkSuQmCC",
+  "package": "com.app.zeustvmananger",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "http://m.zeustvplay.shop",
+  "themeColor": "#8E1907",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAANMSURBVHic7ZtPSBRxFMc/U7bFUrArEgopStgSUoSCB2GlkGAL7OYlpLCQDip6EgKLwOisYIcQk0K6dBRC8CC44CEwQhFRiUI9hJiJerBMpsNz2hVmZ2bVnN/szBeG329m3vu+t2+/77f72z8QIEAAP0PjmR6KrtOt63RoEHI7oeOADr81jZ6fEZ7kRdfpRqdTczurY4QGIXQ6o+ugRdr1XxqE+hphYBy2d2CgCVqGzOe5gE+L0DokSjhhyL6yBE6dTBllmucCKktk1CCkRdt13d103MUJtxNwG3nGZK3HzTSOH/kdMvpeAb4vQJ69yX4keuHj1/+RyuFRXQYj7dn5BArI1iHbCquOrAtgheNoj4PI3ApBCxwlmRfbw/cK8H0BHLXA6hb0J2FkBr6syLWL5yFRAc1xKDjrPKBqXP92g5n2AsNT0PoONrfN7587A313of6qfTCVuIy9gGUBhqfg/muZxwqhphyK8+V8aQ0mFmDuu5y/eWCduGpctgVY3YKq51LhmxVQGzNPZnwORmek4pNd5rJTkcsoQMY1oD8pQWKFEmRnF8Zm4fOi3L9WAjcuy73FH1Lx/iQ8vuUdLrB4FRiZkbGmXMaxWUjOS/DNbZmPze63MXy8wgUmBUj0ijyml+Xc6C2jwh865Ei/ZthML4tvoldtLssCHMV7eYNDVa50ZGyBWKGMS2sylhbIeLtHjvRrho3h4xUusFgEa8plAZlYgOW1lPTSMb0MkTCsbOz38QoXWCigoQrCIXEc3VtE2upSvdZWJ9eS82ITDomPl7gsCxAJQ1d96ry0AGJFcDpPjlhRSmoAT++Ij5e4wGYvcD0GTXEYTMK3Vfk6yQxNcai9ZMWkLpftZqg5LhJ6Pyl9ZywsxfnSWw1V1hVWncvRbjASloDNcWfJeYnL958H+L4Ati3w6K35a206rlyAV/fsg6nIFSjAzsDJs+EUKnIFLWAfKrcRtIBTQzPJOZWrylxBCzg1VFG+R8HlewUEBXBi1DIki43Z/OFgdgFV43KsgD+75vODQCUuR4vgy0b7uVOoxhWsAW4n4DYyfy/w4uiCqMoFJgqoLjs8qcGhKlc6bH8hkqsIfi2+h+AfI8CG20m4CD8/9gABAgB/AVkSInN+kHVlAAAAAElFTkSuQmCC",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": true,
+    "style": 0,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": true,
+  "watermark": false
 }
