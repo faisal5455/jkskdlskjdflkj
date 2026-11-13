@@ -1,50 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "watermark": true,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "a138fa78-35d6-41e5-aba6-428070ce4da5",
+  "appName": "Minhoca Mania",
+  "appIcon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAS8SURBVHic7d09bhtHHIfhVZJOQNwFsBtfIffITXIg3yT3yBXUqEgZQGXgNCFC01yK3J3Z+fg9T2cZIFbS/92ZoSjq6fnDx68LhPqh9QVASwIgmgCIJgCiCYBoAiCaAIgmAKIJgGgCINpPrS/gPW8vr60vgZ2eP39qfQmrnnp7LZCBn19PQXQRgKHP1TqGZgEYei61iKFJAI8Mf+s7BPv1/P0+NIB7vhAGfn49zcFhAdz6pA19rtZzUT2A1p8gY2g1J1UDWPukDD5rjp6Zaj8JNvxssTYftZ41rBKA4WePIyMovgW6dpEGn61qz1PRFcDwU9q1+Sm5EhQLwPBTS80Iqh2CDT8ldf0skNf10EKJudsdgK0PR6mxFSq+BTL81FR6vnYFcFmf4ecIl3O2ZxXYHIB9Pz3ZOo/FtkDu/hyp1Lx5VwiibQrA3p8elDgLWAGIJgCiPRyA7Q892bsNsgIQTQBEEwDRHgrA/p8e7TkHWAGIJgCiCYBoAiCaAIjW/Z9ImtGPX/5sfQnf+Pu3X1b/b/Zn+gRwkJGG/tzby+vUEdgCHWDU4V8WKwA79Db4y2L4L1kBKhl9+FMIIIThv04AFfR29zf86wRQmOEfiwBYlfDeTwLgpvciGD0SARQ06/ZnbchPHx85Aj8H4C4jD/ktVgCiCYBoAiCaAIjmEMxdav+50lasABP7+Y+/ijzO2qtCTx8f+VWjAuCm94Z75OFfFgFww+jDfQ8BTK7UNmhWAggggnUCCCGC6wQQRATfE0CYRyKY4Xn+9wggkAj+5yfBoc4j8M5wDOef338t9ljPxR5pPLZARBMA0QRANAEQTQBEi3kWqLe3LKEPUwdg6HnPtFsgw889plsBDD6PmGoFMPw8aqoA4FHTBODuzxZTBGD42WqKAGArARBt+ABsf9hj+ABgDwEQTQBEE8CASv4+cDoBEE0Ag3H3L0sARBMA0QQwENuf8gQwCMNfhwCIJoABuPvXM93vBM/E4NdnBeiU4T+GFaAjhv54AuiAwW9HAA8wqPNxBiCaAIgmAKIJgGgCIJoAiCYAogmAaAIgmgCIJgCiCYBoAiCaAIgmAKIJgGgCIJoAiCYAogmAaAIgmgCINvzbonirEvawAhBNAEQTANEEQDQBEE0ARBMA0QRANAEQTQBEEwDRBEA0ARBNAEQTANEEQDQBEE0ARBMA0QRANAEQTQBEEwDRHgrg+fOnb/799vJa9GJgi8s5vJzTW6wARBMA0QRAtIcDcA6gJ3v2/8tiBSCcAIi2KQDbIHqwd/uzLFYAwhULwCrAkUrN2+YAtiw3UMvWedy1AjgL0EKJvf9J8TOACKip9HztDuBafSKghmtztXcrXmQFcB6ghRJzV+1pUKsAJdWap2IB2ApRS42tz0nRFUAElFZz+JdlWZ6eP3z8WuzR/rM29M4K3OuoGapyBli7SKsB9zjyBlrtECwCtjh691BlC3Tu1sDbEnHSak6qB3AiBK5pPReHBbAs921/xDC/nubg0ABOHjkHCGJ8PX+/mwSwLA7DfK/Fza5ZAOfEkKv1Ct9FAOfEML/WQ3+uuwAuCWJ8PQ38pe4DgJq8KwTRBEA0ARBNAEQTANEEQDQBEE0ARBMA0f4FXgZjHcfvyB0AAAAASUVORK5CYII=",
+  "package": "com.app.minhocamania",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "https://delightful-crostata-040a2f.netlify.app",
+  "themeColor": "#5B5BD6",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAS8SURBVHic7d09bhtHHIfhVZJOQNwFsBtfIffITXIg3yT3yBXUqEgZQGXgNCFC01yK3J3Z+fg9T2cZIFbS/92ZoSjq6fnDx68LhPqh9QVASwIgmgCIJgCiCYBoAiCaAIgmAKIJgGgCINpPrS/gPW8vr60vgZ2eP39qfQmrnnp7LZCBn19PQXQRgKHP1TqGZgEYei61iKFJAI8Mf+s7BPv1/P0+NIB7vhAGfn49zcFhAdz6pA19rtZzUT2A1p8gY2g1J1UDWPukDD5rjp6Zaj8JNvxssTYftZ41rBKA4WePIyMovgW6dpEGn61qz1PRFcDwU9q1+Sm5EhQLwPBTS80Iqh2CDT8ldf0skNf10EKJudsdgK0PR6mxFSq+BTL81FR6vnYFcFmf4ecIl3O2ZxXYHIB9Pz3ZOo/FtkDu/hyp1Lx5VwiibQrA3p8elDgLWAGIJgCiPRyA7Q892bsNsgIQTQBEEwDRHgrA/p8e7TkHWAGIJgCiCYBoAiCaAIjW/Z9ImtGPX/5sfQnf+Pu3X1b/b/Zn+gRwkJGG/tzby+vUEdgCHWDU4V8WKwA79Db4y2L4L1kBKhl9+FMIIIThv04AFfR29zf86wRQmOEfiwBYlfDeTwLgpvciGD0SARQ06/ZnbchPHx85Aj8H4C4jD/ktVgCiCYBoAiCaAIjmEMxdav+50lasABP7+Y+/ijzO2qtCTx8f+VWjAuCm94Z75OFfFgFww+jDfQ8BTK7UNmhWAggggnUCCCGC6wQQRATfE0CYRyKY4Xn+9wggkAj+5yfBoc4j8M5wDOef338t9ljPxR5pPLZARBMA0QRANAEQTQBEi3kWqLe3LKEPUwdg6HnPtFsgw889plsBDD6PmGoFMPw8aqoA4FHTBODuzxZTBGD42WqKAGArARBt+ABsf9hj+ABgDwEQTQBEE8CASv4+cDoBEE0Ag3H3L0sARBMA0QQwENuf8gQwCMNfhwCIJoABuPvXM93vBM/E4NdnBeiU4T+GFaAjhv54AuiAwW9HAA8wqPNxBiCaAIgmAKIJgGgCIJoAiCYAogmAaAIgmgCIJgCiCYBoAiCaAIgmAKIJgGgCIJoAiCYAogmAaAIgmgCINvzbonirEvawAhBNAEQTANEEQDQBEE0ARBMA0QRANAEQTQBEEwDRBEA0ARBNAEQTANEEQDQBEE0ARBMA0QRANAEQTQBEEwDRHgrg+fOnb/799vJa9GJgi8s5vJzTW6wARBMA0QRAtIcDcA6gJ3v2/8tiBSCcAIi2KQDbIHqwd/uzLFYAwhULwCrAkUrN2+YAtiw3UMvWedy1AjgL0EKJvf9J8TOACKip9HztDuBafSKghmtztXcrXmQFcB6ghRJzV+1pUKsAJdWap2IB2ApRS42tz0nRFUAElFZz+JdlWZ6eP3z8WuzR/rM29M4K3OuoGapyBli7SKsB9zjyBlrtECwCtjh691BlC3Tu1sDbEnHSak6qB3AiBK5pPReHBbAs921/xDC/nubg0ABOHjkHCGJ8PX+/mwSwLA7DfK/Fza5ZAOfEkKv1Ct9FAOfEML/WQ3+uuwAuCWJ8PQ38pe4DgJq8KwTRBEA0ARBNAEQTANEEQDQBEE0ARBMA0f4FXgZjHcfvyB0AAAAASUVORK5CYII=",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": false,
+    "style": 0,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": false,
+  "watermark": false
 }
