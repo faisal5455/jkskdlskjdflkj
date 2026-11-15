@@ -257,7 +257,14 @@ class MainActivity : AppCompatActivity() {
             override fun shouldOverrideUrlLoading(
                 view: WebView, request: WebResourceRequest
             ): Boolean {
-                view.loadUrl(request.url.toString())
+                // tel:, mailto:, whatsapp:, intent:, Google Maps, wa.me … belong to another
+                // app; the WebView would show ERR_UNKNOWN_URL_SCHEME or a marketing page.
+                if (ExternalLinks.isExternal(request.url, Uri.parse(appConfig.websiteURL).host)) {
+                    ExternalLinks.open(this@MainActivity, request.url.toString()) { view.loadUrl(it) }
+                    return true
+                }
+                // Returning false lets the WebView load it — calling loadUrl here as well
+                // used to load every link twice.
                 return false
             }
 
@@ -300,18 +307,20 @@ class MainActivity : AppCompatActivity() {
                         setSupportMultipleWindows(true)
                         javaScriptCanOpenWindowsAutomatically = true
                     }
-                    webViewClient = object : WebViewClient() {}
                     webChromeClient = permissionsHandler.webChromeClient()
                 }
 
-                android.app.Dialog(ctx).apply {
+                val popupDialog = android.app.Dialog(ctx).apply {
                     setContentView(popupWebView)
                     window?.setLayout(
                         ViewGroup.LayoutParams.MATCH_PARENT,
                         ViewGroup.LayoutParams.MATCH_PARENT
                     )
-                    show()
                 }
+                // Non-web links in the popup (Google Maps' intent:// redirect, tel:,
+                // whatsapp:, …) go to their app instead of an ERR_UNKNOWN_URL_SCHEME page.
+                popupWebView.webViewClient = ExternalLinks.popupClient(this@MainActivity, popupDialog)
+                popupDialog.show()
 
                 val transport = resultMsg?.obj as? WebView.WebViewTransport ?: return false
                 transport.webView = popupWebView
