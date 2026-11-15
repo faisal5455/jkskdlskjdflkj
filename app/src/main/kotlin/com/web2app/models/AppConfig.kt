@@ -47,8 +47,6 @@ data class AppConfig(
     val pageLoader: PageLoader = PageLoader(),
     /** Swipe-down-to-refresh gesture on the WebView (off by default). */
     val pullRefresh: Boolean = false,
-    /** Floating "Made with" badge over the WebView. On by default; false removes it entirely. */
-    val watermark: Boolean = true,
     /** Immersive full screen: hides the status + navigation bars (swipe to reveal). */
     val fullScreen: Boolean = false
 )
@@ -229,7 +227,6 @@ fun parseAppConfig(json: JSONObject): AppConfig {
         onboardingImageShape = json.optInt("onboardingImageShape", 0),
         pageLoader = pageLoader,
         pullRefresh = json.optBoolean("pullRefresh", false),
-        watermark = json.optBoolean("watermark", true),
         fullScreen = json.optBoolean("fullScreen", false)
     )
 }
@@ -319,7 +316,6 @@ fun appConfigToJson(config: AppConfig): JSONObject {
     plObj.put("loaderThickness", config.pageLoader.loaderThickness)
     obj.put("pageLoader", plObj)
     obj.put("pullRefresh", config.pullRefresh)
-    obj.put("watermark", config.watermark)
     obj.put("fullScreen", config.fullScreen)
     return obj
 }
