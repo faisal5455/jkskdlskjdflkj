@@ -1,49 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "7ae58aa1-6e64-437e-9346-8dfbc717ba84",
+  "appName": "Hercules.Calc",
+  "appIcon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAIAAADdvvtQAAAAAXNSR0IArs4c6QAAAANzQklUCAgI2+FP4AAABWFJREFUeJzt3TGOHFUQh/G3iAwJyXLghMx3QJacISKLYEVGQLaX4ARcYjMCMsuBtRFyttKKO2zGCZDICQY1zXTPMNP/qnpVr79fZK3tUcv9bb3X0+3ZmxevXjZgq896HwBqIyBICAgSAoKEgCAhIEgICBICgoSAICEgSAgIEgKChIAgISBICAgSAoKEgCAhIEg+730A/3p6vut9CGW8eX3f+xD+cdP3mWii0fWNqVtApGOuS0nRAZ3v5t3bD2FHUtrD4+2p3wrOKDSg1XqIRrQaU1hGQQEt06Ebc8uSAjKKCOioHtJxdZSRd0O+AZFOL2EZOb6RSD0dHf1r+13zek2g+RGTTkfzUeQxh1wmEPXkMf/395hD9gFRTzauDRkHRD05+TXktYmmnmyczohlQFPa1JPTdF4Mh5DZ4xyuN0e//+4bvxdP6/3HT34v/vR8Z3JRZr+EMX4yMz87NgGxeBViu5AZBMSTPXXp585yCWP8VGF4pnioHhI1IHY/RVnthJhAkEgBsX0eg3IebSYQ61dFJmeNJQwSAoJke0BsgEay+WwaTCA2QHXp544lDBICgoSAICEgSAgIEgKChIAgSfQZibZ++PHba//Kr7/8luHFa2ECQUJAkBAQJAQECQFBQkCQEBAkBAQJAUFCQJAQECQEBAkBQUJAkBAQJMM+D5Tf3U9fHn3l/uc/uxyJgoA6WKYz/3qtjFjCop2q5/I/kAoBhbowjkINEVCcq7Ko0tCweyDXh9g3vPiGIB4eb/N/cAUTCBICirB5PTrz8+GTICBICAgSAoKEgCAhIEgIKMLm21u8D4TBEVCQDUMo//hpBBTpqoaqPNRBQKEuzKJKPY2A4v1vHIXqaQPfjU/rzH2xWukcEFCo1XoqdjMZNqCEH7I5Xj2NPVCYIetpBBTji69+X35xgHoaAfUyRj2NgAIsx88w9TQC8jZ2PY2AXK1ufQZDQF4G3jjPEZCLndTTCMjDfuppBGRutZ6//vg6/khiEJClvdXTCMjQDutpBGRln/U0AjKx23oaAen2XE8jINHO62kEpKCeRkCbUc8BAZnZYT2NgLZZjp991tMGfqje70M2T3zCvONnembGBLpOlU/fDUNAVxj1f1YoCOhS1LNqwD1Q2CpDPW28CUQ9wYYKiHrijRMQ9XQxSEDU08sIAVFPR+Wvwri67qv2BKKe7goHRD0ZVA2IepIoGRD15FFvE31hPQk/I/Hav1JCsQnE7MmmUkDUk1CZgKgnpxoBUU9a2TfRp37uNfUkkXoCUU9+eSfQaj2kk03SCUQ9VWQMiHoKSRcQ9dSSK6DVekr87NndShQQ9VSUJSDqKSpFQNRTV/+AqKe0zgFRT3U9A6KeAWwP6M3r+8MvTt2xOo96MpjOwnQ2r9VtAi1boZ6Kei5h82Kop6jOd+Pfvf3w8HjrUY/rQ+yjPiG/gTSBxG3QAbOnF30D1LpfxqM6AoJEDchkFUM8k/WrMYEgMgiIIVSO1fhpTCCIbAJiCBViOH6axxuJHm8Mvv/4yfYFd8v8O9xsCTPJGa7m9VidL8s9EAtZFYbf7V6baBrKxnbrMzEOaH5wNJSH37mwn0A0lI3H1mdy8+LVS9tXPHh6vpt+zf32Xo6+gT0udLwCav9tqJFRuIB6mmtAjYb6cV225nwDOiCjSDGDZxIRUFs01MjIwfKSJeDd3aCADpYZNUqSrV7qht0YCA2onWhoQkwXOvP+SPA9peiAJudLwgZdbkd2C+iAjHR9b2N3DmiOmC6X59mHRAGhIh5phYSAICEgSAgIEgKChIAgISBICAgSAoKEgCAhIEgICBICgoSAICEgSAgIEgKC5G9CnuQaT7D2TwAAAABJRU5ErkJggg==",
+  "package": "com.app.herculescalc",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "https://herculeshf14-sketch.github.io/F-Thercules-/",
+  "themeColor": "#5B5BD6",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAIAAADdvvtQAAAAAXNSR0IArs4c6QAAAANzQklUCAgI2+FP4AAABWFJREFUeJzt3TGOHFUQh/G3iAwJyXLghMx3QJacISKLYEVGQLaX4ARcYjMCMsuBtRFyttKKO2zGCZDICQY1zXTPMNP/qnpVr79fZK3tUcv9bb3X0+3ZmxevXjZgq896HwBqIyBICAgSAoKEgCAhIEgICBICgoSAICEgSAgIEgKChIAgISBICAgSAoKEgCAhIEg+730A/3p6vut9CGW8eX3f+xD+cdP3mWii0fWNqVtApGOuS0nRAZ3v5t3bD2FHUtrD4+2p3wrOKDSg1XqIRrQaU1hGQQEt06Ebc8uSAjKKCOioHtJxdZSRd0O+AZFOL2EZOb6RSD0dHf1r+13zek2g+RGTTkfzUeQxh1wmEPXkMf/395hD9gFRTzauDRkHRD05+TXktYmmnmyczohlQFPa1JPTdF4Mh5DZ4xyuN0e//+4bvxdP6/3HT34v/vR8Z3JRZr+EMX4yMz87NgGxeBViu5AZBMSTPXXp585yCWP8VGF4pnioHhI1IHY/RVnthJhAkEgBsX0eg3IebSYQ61dFJmeNJQwSAoJke0BsgEay+WwaTCA2QHXp544lDBICgoSAICEgSAgIEgKChIAgSfQZibZ++PHba//Kr7/8luHFa2ECQUJAkBAQJAQECQFBQkCQEBAkBAQJAUFCQJAQECQEBAkBQUJAkBAQJMM+D5Tf3U9fHn3l/uc/uxyJgoA6WKYz/3qtjFjCop2q5/I/kAoBhbowjkINEVCcq7Ko0tCweyDXh9g3vPiGIB4eb/N/cAUTCBICirB5PTrz8+GTICBICAgSAoKEgCAhIEgIKMLm21u8D4TBEVCQDUMo//hpBBTpqoaqPNRBQKEuzKJKPY2A4v1vHIXqaQPfjU/rzH2xWukcEFCo1XoqdjMZNqCEH7I5Xj2NPVCYIetpBBTji69+X35xgHoaAfUyRj2NgAIsx88w9TQC8jZ2PY2AXK1ufQZDQF4G3jjPEZCLndTTCMjDfuppBGRutZ6//vg6/khiEJClvdXTCMjQDutpBGRln/U0AjKx23oaAen2XE8jINHO62kEpKCeRkCbUc8BAZnZYT2NgLZZjp991tMGfqje70M2T3zCvONnembGBLpOlU/fDUNAVxj1f1YoCOhS1LNqwD1Q2CpDPW28CUQ9wYYKiHrijRMQ9XQxSEDU08sIAVFPR+Wvwri67qv2BKKe7goHRD0ZVA2IepIoGRD15FFvE31hPQk/I/Hav1JCsQnE7MmmUkDUk1CZgKgnpxoBUU9a2TfRp37uNfUkkXoCUU9+eSfQaj2kk03SCUQ9VWQMiHoKSRcQ9dSSK6DVekr87NndShQQ9VSUJSDqKSpFQNRTV/+AqKe0zgFRT3U9A6KeAWwP6M3r+8MvTt2xOo96MpjOwnQ2r9VtAi1boZ6Kei5h82Kop6jOd+Pfvf3w8HjrUY/rQ+yjPiG/gTSBxG3QAbOnF30D1LpfxqM6AoJEDchkFUM8k/WrMYEgMgiIIVSO1fhpTCCIbAJiCBViOH6axxuJHm8Mvv/4yfYFd8v8O9xsCTPJGa7m9VidL8s9EAtZFYbf7V6baBrKxnbrMzEOaH5wNJSH37mwn0A0lI3H1mdy8+LVS9tXPHh6vpt+zf32Xo6+gT0udLwCav9tqJFRuIB6mmtAjYb6cV225nwDOiCjSDGDZxIRUFs01MjIwfKSJeDd3aCADpYZNUqSrV7qht0YCA2onWhoQkwXOvP+SPA9peiAJudLwgZdbkd2C+iAjHR9b2N3DmiOmC6X59mHRAGhIh5phYSAICEgSAgIEgKChIAgISBICAgSAoKEgCAhIEgICBICgoSAICEgSAgIEgKC5G9CnuQaT7D2TwAAAABJRU5ErkJggg==",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": false,
+    "style": 0,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": false,
+  "watermark": false
 }
