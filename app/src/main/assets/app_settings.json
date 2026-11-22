@@ -1,49 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "e04deb68-9f30-482c-9ed4-1633d902ec15",
+  "appName": "Totally Perfect Day",
+  "appIcon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAAC6CAIAAACWbMCmAAAAAXNSR0IArs4c6QAAAANzQklUCAgI2+FP4AAAAl1JREFUeJzt28FJnUEYhlHvz0hESCzAArIMmGYsIH2kgJSRFgJpISvXVqALF1moxFyFawv3WQ0D51TwLh6YbzO708/fTuA42+wBrEQuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwI5EIgFwK5EMiFQC4EciGQC4FcCMbr2//ZG1jGuL68mr2BZYzzcTZ7A8twuxDIhUAuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwI5EIgFwK5EMiFQC4EciEYL3c+jnCs8fX7l9kbWMbu9/5+9gaWMfbPr7M3sAynLoFcCORCIBcCuRDIhUAuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwI5EIgF4LxaTudvYFl7A6Hw+wNLMNjRCAXArkQyIVALgRyIZALgVwI5EIgFwK5EMiFQC4EciGQC4FcCORCIBcCuRDIhUAuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwI5EIgFwK5EMiFQC4EciGQC4FcCORCIBcCuRDIhUAuBOPvzY/ZG1jGeHu8nb2BZYyT7Wz2BpbhdiGQC4FcCORCIBcCuRDIhUAuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwIxvZBMRxrPP95mL2BZYynX3ezN7CMsX0cszewDIcLgVwI5EIgFwK5EMiFQC4EciGQC4FcCORCIBcCuRDIhUAuBHIhkAuBXAjkQiAXgvHybz97A8vY/by4mL2BZXiMCORCIBcCuRDIhUAuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwI5EIgFwK5EMiFQC4E7xXnIC0Ol1dpAAAAAElFTkSuQmCC",
+  "package": "com.app.totallyperfectday",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "https://mateyito.github.io/Tpd-again/",
+  "themeColor": "#5B5BD6",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAAC6CAIAAACWbMCmAAAAAXNSR0IArs4c6QAAAANzQklUCAgI2+FP4AAAAl1JREFUeJzt28FJnUEYhlHvz0hESCzAArIMmGYsIH2kgJSRFgJpISvXVqALF1moxFyFawv3WQ0D51TwLh6YbzO708/fTuA42+wBrEQuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwI5EIgFwK5EMiFQC4EciGQC4FcCMbr2//ZG1jGuL68mr2BZYzzcTZ7A8twuxDIhUAuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwI5EIgFwK5EMiFQC4EciEYL3c+jnCs8fX7l9kbWMbu9/5+9gaWMfbPr7M3sAynLoFcCORCIBcCuRDIhUAuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwI5EIgF4LxaTudvYFl7A6Hw+wNLMNjRCAXArkQyIVALgRyIZALgVwI5EIgFwK5EMiFQC4EciGQC4FcCORCIBcCuRDIhUAuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwI5EIgFwK5EMiFQC4EciGQC4FcCORCIBcCuRDIhUAuBOPvzY/ZG1jGeHu8nb2BZYyT7Wz2BpbhdiGQC4FcCORCIBcCuRDIhUAuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwIxvZBMRxrPP95mL2BZYynX3ezN7CMsX0cszewDIcLgVwI5EIgFwK5EMiFQC4EciGQC4FcCORCIBcCuRDIhUAuBHIhkAuBXAjkQiAXgvHybz97A8vY/by4mL2BZXiMCORCIBcCuRDIhUAuBHIhkAuBXAjkQiAXArkQyIVALgRyIZALgVwI5EIgFwK5EMiFQC4E7xXnIC0Ol1dpAAAAAElFTkSuQmCC",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": false,
+    "style": 0,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": false,
+  "watermark": false
 }
