@@ -1,49 +1,56 @@
 {
-    "appName": "Web2App",
-    "package": "com.web2app",
-    "websiteUrl": "https://appofweb.com",
-    "themeColor": "#ffffff",
-    "splash": {
-        "color": "#ffffff",
-        "image": "",
-        "size": 30,
-        "loader": 0
-    },
-    "showTabbar": true,
-    "tabbarStyle": 0,
-    "tabbars": [
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Home",
-            "url": "https://appofweb.com"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Explore",
-            "url": "https://appofweb.com/#features"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Alerts",
-            "url": "https://appofweb.com/notifications"
-        },
-        {
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAARRJREFUWEftl0EOAiEMRTs305OpJ9Ojac2QYEV+SwuZxLJhgYxv3q8FNzr42A7ORwnoTejvDF53Y2X2CgytQYa67ES31xwCGRXxnYhOQlcIZARgC66wPojo7MnZA8jGOFJpTvIwJNvk2TxGARmKzVkGmzRDjgCOwJUXMdelFbD+pVrs1Z81QVoAI+DMJrWAkXAmSA3gDDg1JALs9bjRGpT7ujXZA1wBBxt6C1DbgKMM1pBfDV0CenpcFPBHQ0c1yF86M2p4VicgyH2JwXJbabGg284ywF93PlS/Ccix9iykQU0fTIPoiPLUkWfvmyviJMmIUcTof29pNa3nePaqI0YvMHVdU4NTAdDDExAZQutpEBlC60+/dk8piBaB1QAAAABJRU5ErkJggg==",
-            "title": "Profile",
-            "url": "https://appofweb.com/profile"
-        }
-    ],
-    "tabSettings": {
-        "showTitles": true,
-        "tabActiveColor": "#1976D2",
-        "tabBarColor": "#ffffff",
-        "tabInactiveColor": "#888888"
-    },
-    "permissions": [],
-    "pushNotification": false,
-    "oneSignalAppId": "",
-    "playStore": false,
-    "appStore": false,
-    "pullRefresh": false,
-    "fullScreen": false
+  "id": "84f46e5a-9733-4d3d-98f9-9d02fb926c7c",
+  "appName": "Fire Chess",
+  "appIcon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAALnSURBVFiFxZe/axRBFMc/O3M3bozJrYg/UJM7MHLaGC2MAYNdRERFu1QWWtnYqmlEhESblFb+KBRMYcTKIuQPECwkgkUkMRii+AMhP3Gd3Oxa7N1yy3nJ3iTqF664x3vz/c57M2/fOFTBdd32IOCmAydD2MsGwoHZEEaF4Jbv+zNV9jK5cu8EcG0jSetBwF1f+9cB5L8mBwihJyszTSVTGnPKaf9os5DWBqWktRAhyEshMkPAERvyvqLH+LefSCmsBIQhOeHASZvgfZ7iaVezFXEFDvQKm9OuteF9b0ssRGtjJSCEtoZzp7Vh+twOhOuCCZg8vW1dIhoSoLVhoLOFQi4LJojtYyc8K/KGBGht2OcpbhxqTZADFHJZ+oqeVRYaysDYCa+GvILLe+xuQqqoypUr5LJ1fTq2ZP6eAIDBoqq7e0xAYUvUkLQ2tG2WqcuxpoBK7VfbPUCwogHoK3pMnt2eijyVAIDL+U1/JtzdHv3KmD63I25OA50tqbKwZuGUkhzdltx9sKIR+Q7o7oL5BYKPk4isouCKqExS1MTUQ6oS5GSYqL9w3YgcINeKyHdEGan4mCCK2QgBAPMmHhsIVjRfDh9POhw8kPwvRSJm3QJe/1gBKeKDtstrSjrkWhFZVRuzEQKUkvSPL8LOvVHdy4Q1qDqMmID+8cVUs0LqPvDYbIXuLsSpM6s7SsHgu6W0yzbWipdK/Hn3AJ9nIvK3C6l3DymuYTWWtWFZQ7OSJDrv/AKvv/sMzYQMT6QnTy1AKcnLl6+4cGx/WUQkpIL2K0/iptPojJi6BM+nF1n69DVha1aS41fvx8OpzYDa0DzQc/tFjX1qTq9vMnZgNo2jUpKpOc2ui/cYffMBAMsvcAwHZh2l3AfApbRB1R+YvqLH8MTcejLw8P8/TEql0nxWZppC6Gl0AdsHCZTfh7/8EQlQMqUxWxHW5NWP01hENvMoDMk5sB2o0/LsUD7sz4TgvP/LH6nYfwN6PxTkXZkJ2AAAAABJRU5ErkJggg==",
+  "package": "com.app.firechess",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "websiteUrl": "https://www.firechess.com/",
+  "themeColor": "#D1C4BE",
+  "splash": {
+    "color": "#FFFFFF",
+    "gradient": false,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAALnSURBVFiFxZe/axRBFMc/O3M3bozJrYg/UJM7MHLaGC2MAYNdRERFu1QWWtnYqmlEhESblFb+KBRMYcTKIuQPECwkgkUkMRii+AMhP3Gd3Oxa7N1yy3nJ3iTqF664x3vz/c57M2/fOFTBdd32IOCmAydD2MsGwoHZEEaF4Jbv+zNV9jK5cu8EcG0jSetBwF1f+9cB5L8mBwihJyszTSVTGnPKaf9os5DWBqWktRAhyEshMkPAERvyvqLH+LefSCmsBIQhOeHASZvgfZ7iaVezFXEFDvQKm9OuteF9b0ssRGtjJSCEtoZzp7Vh+twOhOuCCZg8vW1dIhoSoLVhoLOFQi4LJojtYyc8K/KGBGht2OcpbhxqTZADFHJZ+oqeVRYaysDYCa+GvILLe+xuQqqoypUr5LJ1fTq2ZP6eAIDBoqq7e0xAYUvUkLQ2tG2WqcuxpoBK7VfbPUCwogHoK3pMnt2eijyVAIDL+U1/JtzdHv3KmD63I25OA50tqbKwZuGUkhzdltx9sKIR+Q7o7oL5BYKPk4isouCKqExS1MTUQ6oS5GSYqL9w3YgcINeKyHdEGan4mCCK2QgBAPMmHhsIVjRfDh9POhw8kPwvRSJm3QJe/1gBKeKDtstrSjrkWhFZVRuzEQKUkvSPL8LOvVHdy4Q1qDqMmID+8cVUs0LqPvDYbIXuLsSpM6s7SsHgu6W0yzbWipdK/Hn3AJ9nIvK3C6l3DymuYTWWtWFZQ7OSJDrv/AKvv/sMzYQMT6QnTy1AKcnLl6+4cGx/WUQkpIL2K0/iptPojJi6BM+nF1n69DVha1aS41fvx8OpzYDa0DzQc/tFjX1qTq9vMnZgNo2jUpKpOc2ui/cYffMBAMsvcAwHZh2l3AfApbRB1R+YvqLH8MTcejLw8P8/TEql0nxWZppC6Gl0AdsHCZTfh7/8EQlQMqUxWxHW5NWP01hENvMoDMk5sB2o0/LsUD7sz4TgvP/LH6nYfwN6PxTkXZkJ2AAAAABJRU5ErkJggg==",
+    "size": 48,
+    "loader": 0,
+    "iconSize": 120,
+    "iconCorner": 15,
+    "gap": 28
+  },
+  "showTabbar": false,
+  "tabbarStyle": 0,
+  "tabbars": [],
+  "tabSettings": {
+    "tabActiveColor": "#5B5BD6",
+    "tabInactiveColor": "#9CA3AF",
+    "tabBarColor": "#FFFFFF",
+    "showTitles": true
+  },
+  "permissions": [],
+  "pushNotification": false,
+  "oneSignalAppId": "",
+  "playStore": false,
+  "appStore": false,
+  "pro": false,
+  "showOnboarding": false,
+  "onboarding": [],
+  "onboardingStyle": 1,
+  "onboardingGradient": false,
+  "onboardingTextColor": "#111827",
+  "onboardingGradientColor": "#5B5BD6",
+  "onboardingCardColor": "#FFFFFF",
+  "onboardingImageShape": 0,
+  "pageLoader": {
+    "enabled": true,
+    "style": 0,
+    "card": true,
+    "cardColor": "#FFFFFF",
+    "cardOpacity": 100,
+    "cardRadius": 12,
+    "gap": 12,
+    "loaderWidth": 78,
+    "loaderThickness": 7
+  },
+  "pullRefresh": true,
+  "watermark": false
 }
